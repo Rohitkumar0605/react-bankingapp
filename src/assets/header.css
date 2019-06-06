@@ -1,0 +1,83 @@
+
+  .head{
+    background-color: #ff6200 !important;
+    
+  }
+  
+  .button {
+    background-color: #fff !important; 
+    border: none;
+    color: #ff6200 !important;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float:right;
+    margin-top:0px    
+  }
+  .button:hover{
+    background-color: #bde0f5;
+}
+  
+  
+  .width{
+      padding:8px;
+  }
+  .round1 {
+    border: 1px solid rgb(87, 80, 80);
+   background-color: #ff6200;
+    padding-bottom: 10px;
+    
+  }
+  .image{
+      width: 1000px;
+      height:400px;
+      margin-left: 180px;
+  }
+  .data{
+      align-content: center;
+      margin-top: 20px;
+  }
+  .header{
+    background-image: url("C:\Users\User1\bank-app\src\assets\background-learner.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top:40px;
+  }
+  .acc{
+    background-color: #c4bcbc;
+  }
+  .detailimg{
+      width:20px;
+      height:20px;
+  }
+.btnimg{
+    width:50px;
+    height:40px;
+   
+    
+}
+.btim{
+  margin-left:500px;
+  margin-top:0px;
+}
+.text{
+  margin-left:100px;
+}
+.dashtext{
+  color: #ff6200 !important;
+  margin-left:500px;
+}
+.dashbtn{
+  background-color: #ff6200 !important;
+  margin-left:1000px;
+  height:40px;
+  width:200px;
+  color: #FFF;
+}
